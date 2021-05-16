@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="next_button">Next</string>
+    <string name="false_button">FALSE</string>
+    <string name="true_button">TRUE</string>
+    <string-array name="Questions">
+        <item>Marrakesh is the capital of Morocco.</item>
+        <item>Idina Menzel sings the phrase, "Let it go" 10 times in the song "Let It Go".</item>
+        <item>Waterloo has the greatest number of tube platforms in London.</item>
+        <item>MandM stands for Mickey and Moordale.</item>
+        <item>The unicorn is the national animal of Scotland.</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+    </string-array>
+</resources>
